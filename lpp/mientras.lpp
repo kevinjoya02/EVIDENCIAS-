@@ -1,0 +1,12 @@
+cadena [2] entrada
+entero num1 ,coco
+inicio
+lea entrada
+	mientras (entrada = "si") haga 
+	Escriba "voy"
+	llamar nueva_linea
+	
+	lea entrada 
+	fin mientras
+		Escriba entrada
+fin 

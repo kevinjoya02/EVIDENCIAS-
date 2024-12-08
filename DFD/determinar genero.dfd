@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+"ingrese su genero"
+5
+1
+7
+genero 
+7
+0
+1
+16
+genero = "mujer"
+7
+0
+1
+17
+genero = "hombre"
+4
+1
+20
+"genero desconocido"
+13
+4
+1
+17
+"ingrese su edad"
+5
+1
+4
+edad
+7
+0
+1
+12
+edad  >= 18 
+7
+0
+1
+10
+edad < 18 
+7
+0
+1
+9
+edad <= 5
+13
+4
+1
+30
+"puede ingresar con un adulto"
+13
+13
+4
+1
+33
+"puede ingresar al baño de niños"
+13
+13
+4
+1
+35
+"puede ingresar al baño de hombres"
+13
+13
+13
+4
+1
+35
+"puede ingresar al baño de mujeres"
+13
+1

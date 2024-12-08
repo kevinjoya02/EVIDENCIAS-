@@ -1,0 +1,16 @@
+arreglo [7] de cadena [12] pollos
+entero numero 
+inicio
+	pollos [3] <- "5" 
+	pollos [1] <- "yo"
+	pollos [2] <- "tu"
+	pollos [4] <- "8"
+	pollos [5] <- "88"
+	pollos [6] <- "59"
+	pollos [7] <- "r*"
+		Escriba pollos[5]
+		llamar nueva_linea
+		Escriba pollos [7]  ,  pollos [2]
+		llamar nueva_linea
+		Escriba pollos [3]
+fin

@@ -1,0 +1,7 @@
+cadena [20] x
+entero n 
+inicio
+x <- "rocio pinilla"
+n <- longitud (x)
+Escriba "la longitud de la cadena" , x , "es : " , n   
+fin 

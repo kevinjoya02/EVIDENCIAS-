@@ -1,0 +1,28 @@
+entero num1 , num2 , p , r , q
+caracter continuar
+inicio
+	repita 
+	p <- 1
+	q <- 1
+		MIENTRAS (P <=2 ) HAGA
+		Escriba "suma" , q 
+		llamar nueva_linea
+		Escriba "ingrese el mu1"
+		llamar nueva_linea
+		lea num1
+		llamar nueva_linea
+		Escriba "inhrese el num2"
+		llamar nueva_linea
+		lea num2
+		r <- num1 + num2
+		llamar nueva_linea 
+		Escriba "su suma es :", r
+		llamar nueva_linea
+		p <- p +1
+		q <- q + 1
+		fin mientras 
+	Escriba "desea continuar?  ingrese n"
+	llamar nueva_linea
+	lea continuar
+	hasta (continuar = 'n')
+fin 

@@ -1,0 +1,18 @@
+entero numero 
+cadena [30] nombre
+inicio
+nombre <- "kevin"
+	para numero <- 1 hasta 5 haga 
+	Escriba "voy en :" , numero 
+	llamar nueva_linea
+	numero <- numero +25
+	fin para
+		numero <- numero+3
+		Escriba "voy en:" ,  numero 
+		
+		
+		
+	
+	
+ 
+fin 

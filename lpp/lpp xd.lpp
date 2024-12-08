@@ -1,0 +1,17 @@
+cadena [30] nombre
+entero numero1, numero2, resultado
+inicio 
+Escriba "ejercicio para manejar la informacio"
+llamar nueva_linea
+Escriba "ingresa tu nombre"
+llamar nueva_linea
+lea nombre
+Escriba "imgresa el primer numero"
+llamar nueva_linea
+lea numero1
+Escriba "imgresa el segundo numero"
+llamar nueva_linea
+lea numero2
+resultado <- numero1 + numero2
+Escriba "hola " , nombre ,  "  la suma es: " , resultado
+fin  

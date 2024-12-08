@@ -1,0 +1,23 @@
+entero num1, num2 , tabla , inicial , fina , x
+inicio 
+	Escriba "ingrese el numero inicial de la tabla"
+	llamar nueva_linea
+	lea inicial
+	Escriba "ingrese el numero fina de la tabla"
+	llamar nueva_linea
+	lea fina 		
+	llamar nueva_linea
+		si (inicial > fina) entonces
+		Escriba "el numero inicial debe ser menor"
+		sino 	
+			para num1 <- inicial hasta fina haga 
+			Escriba "tabla del " ,  num1
+			llamar nueva_linea
+				para x <- 1 hasta 5 haga
+				num2 <- num1 * x 
+				Escriba num1 , " por  " , x , " igual a  :   " ,  num2
+				llamar nueva_linea
+		fin para 		
+				fin para 
+		fin si  
+fin 		

@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+"ingrese su usuario y clave"
+5
+1
+8
+usuario 
+5
+1
+5
+clave
+7
+0
+1
+41
+(usuario="cosa")  and  (clave="raza12@") 
+4
+1
+27
+"usuario o clave no valida"
+13
+4
+1
+17
+"repita su clave"
+5
+1
+6
+Rclave
+7
+0
+1
+15
+Rclave = clave 
+4
+1
+18
+"clave no valida}"
+13
+4
+1
+13
+"bienvenido "
+13
+13
+1

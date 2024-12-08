@@ -1,0 +1,32 @@
+cadena [30] genero 
+entero edad
+	inicio 
+	Escriba "ingrese su genero"
+	llamar nueva_linea
+	lea genero
+		si genero = "mujer" entonces 
+		Escriba "puede ingresar al baño de mujeres"
+		fin si 
+			si genero = "hombre" entonces
+			Escriba "ingrese su edad"
+			llamar nueva_linea
+			lea edad
+				si edad >= 18 entonces 
+				Escriba "puedes ingresar al baño de hombres"
+					sino 
+					si edad > 5 entonces
+					Escriba "puedes ingresar al baño de niños"
+					sino
+						si edad < 5 entonces 
+						Escriba "ingresas con un adulto"
+						fin si 
+					fin si  
+				fin si
+				fin si
+			
+ 	  fin 
+	}
+	
+	
+	
+	
